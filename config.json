@@ -2,4 +2,5 @@
 	"ip":"jaim2.aternos.me",
 	"port": "18324",
 	"name": "afkbot"
+	"auto-night-skip":"true"
 }
